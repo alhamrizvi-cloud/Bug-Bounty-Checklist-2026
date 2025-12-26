@@ -1,5 +1,9 @@
 # 🐞 Bug Bounty Hunting Master Checklist
 
+![GitHub Repo stars](https://img.shields.io/github/stars/alhamrizvi-cloud/Bug-Bounty-Checklist-2026?style=social) 
+![GitHub license](https://img.shields.io/github/license/alhamrizvi-cloud/Bug-Bounty-Checklist-2026) 
+![GitHub downloads](https://img.shields.io/github/downloads/alhamrizvi-cloud/Bug-Bounty-Checklist-2026/total)
+
 > A complete, structured bug bounty checklist covering **Recon → Low Hanging Fruits → Advanced Vulnerabilities**, aligned with **OWASP**, **PortSwigger Web Security Academy**, and real-world bug hunting workflows.
 
 ---
